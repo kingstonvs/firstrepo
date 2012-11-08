@@ -1,3 +1,6 @@
 /kingston/
 /winston/
 *.txt
+!new1.txt
+!something.txt
+/one/kingston
